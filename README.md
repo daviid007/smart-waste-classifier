@@ -22,7 +22,7 @@ The user points their smartphone camera at a piece of waste. The AI model analyz
 
 Users: households, schools, offices, public spaces.
 
-![Waste sorting](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Waste_separation.jpg/640px-Waste_separation.jpg)
+![Recycling bins](./photo.jpg)
 
 ## Data sources and AI methods
 
